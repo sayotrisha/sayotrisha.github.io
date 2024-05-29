@@ -1,2 +1,2 @@
 # sayotrisha.github.io
-portfolio
+Repository for my GitHub Profile / Portfolio
